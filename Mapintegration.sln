@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mapintegration", "..\Mapintegration.csproj", "{F11DBB5F-FE80-4A1D-B003-00F8C4AD2C3C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datalayer", "..\Datalayer\Datalayer.csproj", "{25415D00-E101-4A85-B5D3-C125EB97924C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F11DBB5F-FE80-4A1D-B003-00F8C4AD2C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11DBB5F-FE80-4A1D-B003-00F8C4AD2C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11DBB5F-FE80-4A1D-B003-00F8C4AD2C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11DBB5F-FE80-4A1D-B003-00F8C4AD2C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25415D00-E101-4A85-B5D3-C125EB97924C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25415D00-E101-4A85-B5D3-C125EB97924C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25415D00-E101-4A85-B5D3-C125EB97924C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25415D00-E101-4A85-B5D3-C125EB97924C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A8FB314-E7E4-47A0-8304-29CAFE653072}
+	EndGlobalSection
+EndGlobal

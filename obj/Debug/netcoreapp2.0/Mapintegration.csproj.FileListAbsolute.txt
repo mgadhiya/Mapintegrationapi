@@ -1,0 +1,13 @@
+C:\Users\mgadhiya\Documents\Visual Studio 2017\Projects\core\Mapintegration\bin\Debug\netcoreapp2.0\Mapintegration.deps.json
+C:\Users\mgadhiya\Documents\Visual Studio 2017\Projects\core\Mapintegration\bin\Debug\netcoreapp2.0\Mapintegration.runtimeconfig.json
+C:\Users\mgadhiya\Documents\Visual Studio 2017\Projects\core\Mapintegration\bin\Debug\netcoreapp2.0\Mapintegration.runtimeconfig.dev.json
+C:\Users\mgadhiya\Documents\Visual Studio 2017\Projects\core\Mapintegration\bin\Debug\netcoreapp2.0\Mapintegration.dll
+C:\Users\mgadhiya\Documents\Visual Studio 2017\Projects\core\Mapintegration\obj\Debug\netcoreapp2.0\Mapintegration.csprojResolveAssemblyReference.cache
+C:\Users\mgadhiya\Documents\Visual Studio 2017\Projects\core\Mapintegration\obj\Debug\netcoreapp2.0\Mapintegration.csproj.CoreCompileInputs.cache
+C:\Users\mgadhiya\Documents\Visual Studio 2017\Projects\core\Mapintegration\obj\Debug\netcoreapp2.0\Mapintegration.AssemblyInfoInputs.cache
+C:\Users\mgadhiya\Documents\Visual Studio 2017\Projects\core\Mapintegration\obj\Debug\netcoreapp2.0\Mapintegration.AssemblyInfo.cs
+C:\Users\mgadhiya\Documents\Visual Studio 2017\Projects\core\Mapintegration\bin\Debug\netcoreapp2.0\Mapintegration.pdb
+C:\Users\mgadhiya\Documents\Visual Studio 2017\Projects\core\Mapintegration\obj\Debug\netcoreapp2.0\Mapintegration.dll
+C:\Users\mgadhiya\Documents\Visual Studio 2017\Projects\core\Mapintegration\obj\Debug\netcoreapp2.0\Mapintegration.pdb
+C:\Users\mgadhiya\Documents\Visual Studio 2017\Projects\core\Mapintegration\bin\Debug\netcoreapp2.0\Datalayer.dll
+C:\Users\mgadhiya\Documents\Visual Studio 2017\Projects\core\Mapintegration\bin\Debug\netcoreapp2.0\Datalayer.pdb
